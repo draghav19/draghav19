@@ -1,5 +1,5 @@
-### Hi there 👋
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=draghav19)](https://github.com/LordDashMe/github-contribution-stats/)
 <!--
 **draghav19/draghav19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
